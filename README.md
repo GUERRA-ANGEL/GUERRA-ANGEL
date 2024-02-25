@@ -1,4 +1,4 @@
-# Angel Guerra Muñoz
+<h1 align="center">Angel Guerra Muñoz</h1>
 
 ¡Hola! 👋 Soy Angel Guerra Muñoz, un estudiante de Tecnologías de la Información con enfoque en Desarrollo de Software Multiplataforma. Me apasiona la programación y estoy constantemente aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades.
 
