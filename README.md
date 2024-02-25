@@ -46,6 +46,7 @@ Estoy comprometido con el aprendizaje continuo y siempre estoy explorando nuevas
 ## Idiomas
 - Inglés
 
+## Lenguajes que utilizo:
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUERRA-ANGEL&layout=compact&theme=buefy&hide_border=true" />
 </p>
