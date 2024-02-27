@@ -16,7 +16,6 @@
 
 - Correo electrónico Personal: ag9190833@gmail.com
 - Github: GUERRA-ANGEL
-- Telefono: 775-113-14-51
 
 ## Tecnologías
 <p align="center">
