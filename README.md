@@ -1,5 +1,4 @@
 <h1 align="center">¡Hola! Soy Ángel 👋</h1>
-
 ¡Hola! 👋 Soy Angel Guerra Muñoz, un estudiante de Tecnologías de la Información con enfoque en Desarrollo de Software Multiplataforma. Me apasiona la programación y estoy constantemente aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades.
 
 <h2 align="center">🚀 Acerca de mí:</h2>
@@ -45,13 +44,13 @@ Estoy comprometido con el aprendizaje continuo y siempre estoy explorando nuevas
 ## Idiomas
 - Inglés
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
   
 <p align="center">
