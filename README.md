@@ -45,6 +45,10 @@ Estoy comprometido con el aprendizaje continuo y siempre estoy explorando nuevas
 ## Idiomas
 - Inglés
 
+  
+<p align="center">
+    <img src="screenshot.gif" alt="chrome offline game cast">
+</p>
 
 
 
