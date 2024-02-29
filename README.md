@@ -15,6 +15,7 @@
 
 - Correo electrónico Personal: ag9190833@gmail.com
 - Github: GUERRA-ANGEL
+- Telefono: 775-113-14-51
 
 ## Tecnologías
 <p align="center">
@@ -43,6 +44,7 @@ Estoy comprometido con el aprendizaje continuo y siempre estoy explorando nuevas
 
 ## Idiomas
 - Inglés
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
