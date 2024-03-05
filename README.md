@@ -43,7 +43,7 @@
 Estoy comprometido con el aprendizaje continuo y siempre estoy explorando nuevas tecnologías y conceptos para mejorar mis habilidades como desarrollador de software.
 
 ## Idiomas
-- Inglés
+- Inglés B1
 
 
 <picture>
