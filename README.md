@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Ángel 👋</h1>
+<h1 align="center">¡Hola! Soy Ángel 👋👨🏻‍💻</h1>
 ¡Hola! 👋 Soy Angel Guerra Muñoz, un estudiante de Tecnologías de la Información con enfoque en Desarrollo de Software Multiplataforma. Me apasiona la programación y estoy constantemente aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades.
 
 <h2 align="center">🚀 Acerca de mí:</h2>
